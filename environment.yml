@@ -6,6 +6,7 @@ dependencies:
   - anaconda
   - pip
   - pip:
+    - ipykernel
     - joblib
     - interpolation
     - fiona
