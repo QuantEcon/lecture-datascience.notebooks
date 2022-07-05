@@ -1,6 +1,6 @@
 # lecture-datascience.notebooks
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/QuantEcon/lecture-datascience.notebooks/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/QuantEcon/lecture-datascience.notebooks/main)
 
 Notebooks for https://datascience.quantecon.org
 
